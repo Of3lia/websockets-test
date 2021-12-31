@@ -1,4 +1,4 @@
-# d2
+# Node.js and HTML WebSockets test
 
 ## Project setup
 
